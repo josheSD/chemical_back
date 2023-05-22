@@ -1,0 +1,15 @@
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.csproj.AssemblyReference.cache
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.AssemblyInfoInputs.cache
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.AssemblyInfo.cs
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.csproj.CoreCompileInputs.cache
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\bin\Debug\net7.0\chemical.back.Validator.deps.json
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\bin\Debug\net7.0\chemical.back.Validator.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\bin\Debug\net7.0\chemical.back.Validator.pdb
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\bin\Debug\net7.0\chemical.back.DTO.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\bin\Debug\net7.0\chemical.back.DTO.pdb
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.csproj.CopyComplete
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\refint\chemical.back.Validator.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\chemical.back.Validator.pdb
+C:\Jose\Chemical\chemical.back\chemical.back.Validator\obj\Debug\net7.0\ref\chemical.back.Validator.dll

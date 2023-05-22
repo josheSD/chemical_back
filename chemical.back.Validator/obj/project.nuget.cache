@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lM6lTF3RlSTrNCT/d98mYFXiPm8zOdV2xcgWiMZA3iezDSgqjrSoqqi4qMd18ZV0aqnwohuDmVN1qn2jmS0v9A==",
+  "success": true,
+  "projectFilePath": "C:\\Jose\\Chemical\\chemical.back\\chemical.back.Validator\\chemical.back.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josec\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\josec\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
+    "C:\\Users\\josec\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

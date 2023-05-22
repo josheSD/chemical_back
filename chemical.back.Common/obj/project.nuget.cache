@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPjtDy6rnfzImDFOwpR/BUD3nmdTWMX13dfN674P4sRS6+KJeAuTJYytRHyrA7KqxwxS1ply8nLBH4Vd5lRoWg==",
+  "success": true,
+  "projectFilePath": "C:\\Jose\\Chemical\\chemical.back\\chemical.back.Common\\chemical.back.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josec\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\josec\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

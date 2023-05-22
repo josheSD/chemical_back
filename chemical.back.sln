@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back", "chemical.back\chemical.back.csproj", "{E8478AD5-78BF-4EE8-A983-ACFC2EB98AD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicio", "Servicio", "{46CA4952-84DD-432E-AF7C-FB092FF54359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", "{3DD18B44-5850-4BA5-827F-5C9964CAA6A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{8E4241B7-C971-421B-B438-E3FE37C98A09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{542CF882-BCA0-4C0B-AB4A-8CE30AB952A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transversal", "Transversal", "{42AA617F-B45A-46B6-AC87-A3C9A8E774F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.DTO", "chemical.back.DTO\chemical.back.DTO.csproj", "{911D5FB7-63E4-4314-A0F5-75EA01C5A10D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.Interface", "chemical.back.Interface\chemical.back.Interface.csproj", "{0FDD544E-1DE6-47EB-BA1B-2F69A2EFAED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.UseCases", "chemical.back.UseCases\chemical.back.UseCases.csproj", "{82712E34-740F-4222-8EA1-9DCE01FC4DC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.Validator", "chemical.back.Validator\chemical.back.Validator.csproj", "{58A366B7-8999-4C2E-8C21-3D1D8BF00B24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.Domain", "chemical.back.Domain\chemical.back.Domain.csproj", "{1863D6BA-EE18-42EB-8522-6B6239A6B3AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.Persistence", "chemical.back.Persistence\chemical.back.Persistence.csproj", "{C9489A12-D8D4-41F4-9BDB-44CEF184DD47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chemical.back.Common", "chemical.back.Common\chemical.back.Common.csproj", "{AF884FB9-22DF-4D69-9BF7-C5685907787D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8478AD5-78BF-4EE8-A983-ACFC2EB98AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8478AD5-78BF-4EE8-A983-ACFC2EB98AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8478AD5-78BF-4EE8-A983-ACFC2EB98AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8478AD5-78BF-4EE8-A983-ACFC2EB98AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911D5FB7-63E4-4314-A0F5-75EA01C5A10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911D5FB7-63E4-4314-A0F5-75EA01C5A10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911D5FB7-63E4-4314-A0F5-75EA01C5A10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911D5FB7-63E4-4314-A0F5-75EA01C5A10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDD544E-1DE6-47EB-BA1B-2F69A2EFAED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDD544E-1DE6-47EB-BA1B-2F69A2EFAED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDD544E-1DE6-47EB-BA1B-2F69A2EFAED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDD544E-1DE6-47EB-BA1B-2F69A2EFAED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82712E34-740F-4222-8EA1-9DCE01FC4DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82712E34-740F-4222-8EA1-9DCE01FC4DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82712E34-740F-4222-8EA1-9DCE01FC4DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82712E34-740F-4222-8EA1-9DCE01FC4DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A366B7-8999-4C2E-8C21-3D1D8BF00B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A366B7-8999-4C2E-8C21-3D1D8BF00B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A366B7-8999-4C2E-8C21-3D1D8BF00B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A366B7-8999-4C2E-8C21-3D1D8BF00B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1863D6BA-EE18-42EB-8522-6B6239A6B3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1863D6BA-EE18-42EB-8522-6B6239A6B3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1863D6BA-EE18-42EB-8522-6B6239A6B3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1863D6BA-EE18-42EB-8522-6B6239A6B3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9489A12-D8D4-41F4-9BDB-44CEF184DD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9489A12-D8D4-41F4-9BDB-44CEF184DD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9489A12-D8D4-41F4-9BDB-44CEF184DD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9489A12-D8D4-41F4-9BDB-44CEF184DD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF884FB9-22DF-4D69-9BF7-C5685907787D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF884FB9-22DF-4D69-9BF7-C5685907787D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF884FB9-22DF-4D69-9BF7-C5685907787D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF884FB9-22DF-4D69-9BF7-C5685907787D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E8478AD5-78BF-4EE8-A983-ACFC2EB98AD7} = {46CA4952-84DD-432E-AF7C-FB092FF54359}
+		{911D5FB7-63E4-4314-A0F5-75EA01C5A10D} = {3DD18B44-5850-4BA5-827F-5C9964CAA6A5}
+		{0FDD544E-1DE6-47EB-BA1B-2F69A2EFAED6} = {3DD18B44-5850-4BA5-827F-5C9964CAA6A5}
+		{82712E34-740F-4222-8EA1-9DCE01FC4DC5} = {3DD18B44-5850-4BA5-827F-5C9964CAA6A5}
+		{58A366B7-8999-4C2E-8C21-3D1D8BF00B24} = {3DD18B44-5850-4BA5-827F-5C9964CAA6A5}
+		{1863D6BA-EE18-42EB-8522-6B6239A6B3AB} = {8E4241B7-C971-421B-B438-E3FE37C98A09}
+		{C9489A12-D8D4-41F4-9BDB-44CEF184DD47} = {542CF882-BCA0-4C0B-AB4A-8CE30AB952A3}
+		{AF884FB9-22DF-4D69-9BF7-C5685907787D} = {42AA617F-B45A-46B6-AC87-A3C9A8E774F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E82DB32-E21C-448E-85A0-24D1DC22FC31}
+	EndGlobalSection
+EndGlobal

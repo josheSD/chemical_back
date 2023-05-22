@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\chemical.back.Common\chemical.back.Common.csproj" />
+    <ProjectReference Include="..\chemical.back.Domain\chemical.back.Domain.csproj" />
+    <ProjectReference Include="..\chemical.back.DTO\chemical.back.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

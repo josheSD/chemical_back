@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="System.Net.Http.Json" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\chemical.back.Common\chemical.back.Common.csproj" />
+    <ProjectReference Include="..\chemical.back.Domain\chemical.back.Domain.csproj" />
+    <ProjectReference Include="..\chemical.back.DTO\chemical.back.DTO.csproj" />
+    <ProjectReference Include="..\chemical.back.Interface\chemical.back.Interface.csproj" />
+    <ProjectReference Include="..\chemical.back.Validator\chemical.back.Validator.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.csproj.AssemblyReference.cache
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.AssemblyInfoInputs.cache
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.AssemblyInfo.cs
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.csproj.CoreCompileInputs.cache
+C:\Jose\Chemical\chemical.back\chemical.back.Common\bin\Debug\net7.0\chemical.back.Common.deps.json
+C:\Jose\Chemical\chemical.back\chemical.back.Common\bin\Debug\net7.0\chemical.back.Common.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Common\bin\Debug\net7.0\chemical.back.Common.pdb
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\refint\chemical.back.Common.dll
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\chemical.back.Common.pdb
+C:\Jose\Chemical\chemical.back\chemical.back.Common\obj\Debug\net7.0\ref\chemical.back.Common.dll
