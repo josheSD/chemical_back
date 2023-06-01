@@ -9,9 +9,10 @@ namespace chemical.back.UseCases
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
-            services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
             services.AddScoped<IUserApplication, UserApplication>();
+
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
             services.AddTransient<UserCreateDtoValidator>();
             services.AddTransient<UserUpdateDtoValidator>();
